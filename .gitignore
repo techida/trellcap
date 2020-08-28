@@ -1,0 +1,29 @@
+# added by cds deploy
+default-env.json
+node_modules/
+package-lock.json
+*.mtar
+srv/src/gen/
+srv/target/
+.vscode
+.flattened-pom.xml
+.project
+*.db
+db/src
+edmx/
+.env*
+–no-check-certificate
+.npmrc
+application-cloud.yaml
+*.sql
+Makefile_*
+dist
+ui-deployer/resources
+.project
+.settings/
+.classpath
+aatpext.code-workspace
+srv/.factorypath
+serviceNameMappings.properties
+# added by cds deploy
+connection.properties
